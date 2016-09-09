@@ -360,4 +360,4 @@ Now to test if it's stuck, just re-run the query above.
 ![Query2 Example](https://raw.githubusercontent.com/IBM-Blockchain/learn-chaincode/master/imgs/query2_response.PNG)
 
 
-That’s all it takes to write basic chaincode.
+That’s all it takes to write basic chaincode and more.
